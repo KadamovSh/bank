@@ -1,3 +1,3 @@
-module github.com/KadamovSh/bank.git
+module github.com/KadamovSh/bank
 
 go 1.25.5
