@@ -1,6 +1,6 @@
 package card
 
-import "github.com/KadamovSh/bank/pkg/bank/types"
+import "github.com/KadamovSh/bank/v2/pkg/bank/types"
 
 // Total вычисляет общую сумму средств на всех картах.
 // Отрицательные суммы и суммы на заблокированных картах игнорируются.
