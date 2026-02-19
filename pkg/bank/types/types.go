@@ -27,3 +27,11 @@ type Card struct {
 	Name 		string 
 	Active 		bool
 }
+
+type Category string
+
+type Payment struct {
+  ID     int
+  Amount Money
+  Category Category
+}
